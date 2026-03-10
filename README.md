@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jga7077)](https://github.com/jga7077/github-readme-stats)
 
 <!--
 **JGA7077/JGA7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
