@@ -1,3 +1,10 @@
+## Hi there 👋
+
+I'm a web developer, currently working with e-commerce, focusing on front-end development with React, Redux, and Styled Components, and back-end development with Node and Express. My work is focused on providing a better user experience.
+
+I'm currently studying Ruby and Rails to expand my skills.
+
+### Github stats
 <div align="center">
   <img  height="165em" width: "100em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JGA7077&theme=dracula" />
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=JGA7077&theme=dracula&hide_border=true" />
