@@ -6,7 +6,7 @@ I'm currently studying Ruby and Rails to expand my skills.
 
 ### Github stats
 <div align="center">
-  <img  height="165em" width: "100em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JGA7077&theme=dracula" />
+  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGA7077&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=JGA7077&theme=dracula&hide_border=true" />
 </div>
 
